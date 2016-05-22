@@ -875,7 +875,7 @@ REGEX = /// ^
 ///
 
 REGEX_FLAGS  = /^\w*/
-VALID_FLAGS  = /^(?!.*(.).*\1)[imgy]*$/
+VALID_FLAGS  = /^(?!.*(.).*\1)[imgyu]*$/
 
 HEREGEX      = /// ^(?: [^\\/#] | \\[\s\S] | /(?!//) | \#(?!\{) )* ///
 
